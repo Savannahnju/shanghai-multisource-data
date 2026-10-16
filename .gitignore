@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# 编辑器/系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# 数据：仅提交抽样样本，不提交全量数据（GitHub 单文件上限 100 MB）
+data/**/*.zip
+data/**/*.rar
+*.7z
