@@ -40,7 +40,6 @@ project/
 │   ├── C_Q2_visualization.py      # 图1—图9 重绘入口
 │   └── figures/                   # fig1_C_*.png … fig9_C_*.png
 ├── docs/                          # 数据源、方法、图表说明等
-│   ├── C_AI_USAGE.md              # 成员 C 的 AI 使用记录与反思
 │   ├── C_data_sources.md          # 成员 C 的数据源清单
 │   └── C_descriptive_analysis.md  # 描述性分析
 ├── data_sources.md                # 汇总数据源清单（由各组员分项合并）
