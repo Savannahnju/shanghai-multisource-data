@@ -1,0 +1,67 @@
+# 原始数据校验值（SHA256）
+# 生成时间：2026-10-16 21:17:19
+
+各区绿地面积.xls  sha256=a2b292d6676eef07fea2bf54f21e3644c1d6f00c99798bd7db6d8e55ce8bbe44  size=27136B
+各区人口密度.xls  sha256=a902bce3328e75005022eaedffadebd708acb3f485f5dcbe0248cb7a1ddc448d  size=22528B
+各月气象指标.xls  sha256=ad3cb3a30decf27aaff025affafed3e186b697ea238911ed578851219d903eef  size=34304B
+气象指标.xls  sha256=24b5c015e03c89fd85be1fafb0f8ab4895f75199bc1d10d3418851b2742fb519  size=28160B
+
+# ==== 植被韧性数据集 SH_Green_Resilience_1.0 ====
+# 生成时间：2026-10-16 21:17:26｜来源：全球变化数据仓储 DOI:10.3974/geodb.2024.12.04.V1｜29 个文件
+1_StudyArea\sh.cpg  sha256=3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824  size=5B
+1_StudyArea\sh.dbf  sha256=693cb700d13b1522ded6cd34dd6149e418c176866d49a82b4a00398c2167342d  size=321B
+1_StudyArea\sh.prj  sha256=a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4  size=145B
+1_StudyArea\sh.sbn  sha256=376626acc6d13267807c94f4f0877a558128ac0ed585a9268526fc5543992254  size=132B
+1_StudyArea\sh.sbx  sha256=7a7f799e573578bdf0174b9f2855c98017a06c6918871edfe21a277f6bbb3213  size=116B
+1_StudyArea\sh.shp  sha256=9f546419eccfc713283ee99cca1c5102664c59cddabc802e04d815e635d90482  size=37392B
+1_StudyArea\sh.shp.xml  sha256=29e29ba1f28800b80d1d1e47220699792e7385ab821737a78a0a614540a25169  size=7649B
+1_StudyArea\sh.shx  sha256=ab905f0b3b6afa58474940c5f800b104873699eebabb0479badf234da41cd494  size=108B
+2_Green_R\GREEN_R.tfw  sha256=60935639da937e6ce28e1eaba218652621c881c35b61ed19f7178089b10bbf09  size=95B
+2_Green_R\GREEN_R.TIF  sha256=4820ff252b329c892c8b6fd4f143d1dbe429d8170f3fc8a1479588dc4faa08c9  size=88150B
+2_Green_R\GREEN_R.TIF.aux.xml  sha256=6fb655e2428a0d7e4c70d3ccade5d27ef55d7e0659c7db3014f25b9c138f11b6  size=1679B
+2_Green_R\GREEN_R.TIF.ovr  sha256=3ffef6ef516069e2885478979b19ddcc4a29711eb9b80ef6c61e610bbdd69d00  size=18027B
+2_Green_R\GREEN_R.TIF.xml  sha256=f8dfed0a5985fd815e668eda9195ff813b6b82fdd628b07e9f571f12a7772889  size=6806B
+3_STL_AR1\STL_AR1.tfw  sha256=60935639da937e6ce28e1eaba218652621c881c35b61ed19f7178089b10bbf09  size=95B
+3_STL_AR1\STL_AR1.TIF  sha256=ade5f7a8b955bf8e3d9e1e04ac8f1d0ae3cbbe7876f25adbcfd84520d3ed6e4b  size=114636B
+3_STL_AR1\STL_AR1.TIF.aux.xml  sha256=21617bc05ca27a75f9f091e70b12d40ab971078e1e6552be0bc26a12995cb968  size=1663B
+3_STL_AR1\STL_AR1.TIF.ovr  sha256=83aa907f2848ab1368609b50da4451b4c143a932ef07b9131ac7492d9c134131  size=23149B
+3_STL_AR1\STL_AR1.TIF.xml  sha256=eecd01c8e8a18623cf8252bbbe67d3c69a9778f31a5787919faa654ad2b27dc9  size=6824B
+4_V2_AR1\V2_AR1.tfw  sha256=60935639da937e6ce28e1eaba218652621c881c35b61ed19f7178089b10bbf09  size=95B
+4_V2_AR1\V2_AR1.TIF  sha256=2e0313e99632e594803aa6e441f2ed6bda1595a4458ff36a7c60b55b5aa046ca  size=226354B
+4_V2_AR1\V2_AR1.TIF.aux.xml  sha256=cd9e7b563300dc0d6c5220a96fe1e8cecc0ee47ef39420c2a11a62f7a52d94d7  size=1599B
+4_V2_AR1\V2_AR1.TIF.ovr  sha256=af42444cea383c4c838291a445650f614be210f5a7b50d3718325267c2982127  size=27843B
+4_V2_AR1\V2_AR1.TIF.xml  sha256=78fcb2016a8d035d06230b4588dd9f223732dedcd225ce0919851751b4baa9b2  size=6827B
+5_V2_VAR\V2_VAR.tfw  sha256=60935639da937e6ce28e1eaba218652621c881c35b61ed19f7178089b10bbf09  size=95B
+5_V2_VAR\V2_VAR.TIF  sha256=a1f0e670e9fadafa71ca4eb8f6b1b387968726f3156b5f511591d38429046477  size=226228B
+5_V2_VAR\V2_VAR.TIF.aux.xml  sha256=aa2cbe1562b215fd596d7bd1b41ae8c0d0c785a39b8512c705b1845413349cc6  size=1598B
+5_V2_VAR\V2_VAR.TIF.ovr  sha256=cee1cfe23329352213253a479d98bf260216c1782690a4ff50564c355402de6f  size=27714B
+5_V2_VAR\V2_VAR.TIF.xml  sha256=69c72d2dc170cf732d2333f8b36dcab4094a6f0c8dac0f9b5bba1c0ba9e1b1ad  size=6836B
+SH_Green_Resilience_data_paper.pdf  sha256=ff3110ddadcf5f4f1c0e057f97acf3280143f89d26d18ce25c5ea59e71c83cb3  size=969815B
+# ==== END SH_Green_Resilience_1.0 ====
+
+# ==== 第二批原始数据（清洗阶段新增） ====
+# 生成时间：2026-10-27｜来源：团队数据汇总目录
+## 上海地铁客流量
+上海地铁客流量/metroData_InOutFlow.csv  sha256=e4ebf0cd4ac0a1e3716916df52efc6764946279f58c14e8d0b115383a614e534  size=217442845B
+上海地铁客流量/stationInfo.csv  sha256=a180d4582b696ed5fb70d5d5544bab7a6b6ceecc22bdefb100108c9a15b64fe4  size=19872B
+上海地铁客流量/workday_calendar.csv  sha256=d5c2bd28f4636f48a4ca7dc23ccf29f41d7c3e598411ad3a950702d08da03a8a  size=1367B
+上海地铁客流量/shanghai_weatherHourly.csv  sha256=00ec3c9f3e1f89d28ad302402d9671bc7a3623fc0cba539510d857c93db37ca3  size=146252B
+
+## 上海市百度地图POI数据
+上海市百度地图POI数据/上海市.csv  sha256=6ee0af299098d3669416876dc3678a1bab34ab907a150194c2d16758a09a7e77  size=276555528B
+
+## 空气质量、环境指数
+空气质量、环境指数/2017年各区降尘量与PM2.5月均浓度.xlsx  sha256=9e71175c96480e077fc738535c8cb4eec148d53b93889ad15e49a054b8dc6550  size=72007B
+空气质量、环境指数/zenedo-上海空气质量数据集.zip  sha256=cd8aa777c913084920e3f736b8eb33de6554ac446c48930d2ecc4fa00460b580  size=55378B
+
+## 上海市行政区划-乡镇级shp文件/shp
+上海市行政区划-乡镇级shp文件/shp/区级数据.shp  sha256=f6d8e3958012c11b2b9c171d1750d2966c0959294783f06a9c642b5e43daea8d  size=64744B
+上海市行政区划-乡镇级shp文件/shp/区级数据.dbf  sha256=4091aae8673ff2c7eb77f8cb90c4e1a8e5f24bf2910b056d8488c4840de7d069  size=1986B
+上海市行政区划-乡镇级shp文件/shp/区级数据.prj  sha256=a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4  size=145B
+上海市行政区划-乡镇级shp文件/shp/区级数据.shx  sha256=d60cb6e31bc9258739439c08a61ddf44d49ead66d2b03b0ac4fa686f14fc19dd  size=228B
+上海市行政区划-乡镇级shp文件/shp/区级数据.cpg  sha256=3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824  size=5B
+
+## 上海市行政区划-乡镇级shp文件
+上海市行政区划-乡镇级shp文件/区级数据.geojson  sha256=c13ff7f49e4e52d1d76460d6d01f16845cd1e5dc8b814c8c724de0833b6e68e5  size=119015B
+上海市行政区划-乡镇级shp文件/乡镇级数据.geojson  sha256=f52f08a4c433d9a9a12140a301ba07f182f87cd07534ad7d553bf6e637e02d05  size=4419070B
+
