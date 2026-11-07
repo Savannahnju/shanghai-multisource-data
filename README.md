@@ -30,7 +30,7 @@ project/
 │   ├── cleaned/                   # 清洗后数据的抽样/索引
 │   └── integrated/                # 区×结构×空气融合表（integrated_C_Q2_sample.csv）
 ├── crawler/                       # 数据采集代码
-├── processing/                    # 清洗、规范化、实体/时间/空间对齐（C_sample_raw_data.py）
+├── processing/                    # 清洗、规范化、实体/时间/空间对齐与融合（C_sample_raw_data.py、C_Q2_integrate.py）
 ├── analysis/                      # 分析与数据挖掘
 │   ├── README_C_analysis.md       # Q2 分析说明（8 个阶段、方法要点、已知约束）
 │   ├── C_Q2_analysis.py           # Q2 流水线（单文件，按阶段执行）
@@ -56,6 +56,7 @@ project/
 ```powershell
 set SH_BASE=<数据根目录>              # 需含 cleaned_Data/ 与 Data/
 python analysis\C_Q2_analysis.py      # 生成 analysis/output/ 的 20 张表
+python processing\C_Q2_integrate.py   # 生成 data/integrated/ 的融合表
 python visualization\C_Q2_visualization.py   # 重绘 visualization/figures/ 的 9 张图
 ```
 
