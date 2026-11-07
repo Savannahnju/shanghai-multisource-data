@@ -28,7 +28,7 @@ project/
 ├── data/                          # 数据（抽样/索引）
 │   ├── raw/                       # 原始数据的抽样/索引（raw_C_*.geojson）
 │   ├── cleaned/                   # 清洗后数据的抽样/索引
-│   └── integrated/                # 跨源融合后的核心数据
+│   └── integrated/                # 区×结构×空气融合表（integrated_C_Q2_sample.csv）
 ├── crawler/                       # 数据采集代码
 ├── processing/                    # 清洗、规范化、实体/时间/空间对齐（C_sample_raw_data.py）
 ├── analysis/                      # 分析与数据挖掘
